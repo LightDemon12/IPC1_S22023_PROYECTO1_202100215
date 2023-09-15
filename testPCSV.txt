@@ -1,0 +1,6 @@
+Código,Nombre,Apellido,Correo,Género,Contraseña
+P001,ProfesorA,ApellidoA,profesorA@example.com,Masculino,claveA
+P002,ProfesorB,ApellidoB,profesorB@example.com,Femenino,claveB
+P003,ProfesorC,ApellidoC,profesorC@example.com,Masculino,claveC
+P004,ProfesorD,ApellidoD,profesorD@example.com,Femenino,claveD
+P005,ProfesorE,ApellidoE,profesorE@example.com,Otro,claveE

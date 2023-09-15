@@ -1,0 +1,3 @@
+codigo , nombre , apellido , correo , genero
+1 , Juan , Perez , g@gmail.com , m
+2 , Andrea , Gonzalez , a@gmail.com , f

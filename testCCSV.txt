@@ -1,0 +1,5 @@
+C001,Matemáticas,3,ProfesorA,005
+C002,Informática,4,ProfesorB,007
+C003,Física,3,ProfesorC,004
+C004,Historia,2,ProfesorD,006
+C005,Química,3,ProfesorA,003
